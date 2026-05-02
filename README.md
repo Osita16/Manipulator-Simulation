@@ -65,6 +65,10 @@ Manipulator-Simulation/
 - `inverse_kinematics.m`: MATLAB script for inverse kinematics calculation.
 - `manipulator_model.slx`: Main Simulink model file.
 
+###DEMO
+
+https://github.com/user-attachments/assets/326fd2b6-59ca-4b8c-81b8-44e966479eea
+
 ## Customization
 
 - Modify manipulator parameters (link lengths, number of joints, joint limits) in the appropriate scripts or model mask parameters.
