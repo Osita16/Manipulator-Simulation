@@ -11,6 +11,11 @@ A Simulink/MATLAB simulation for a robotic manipulator, focusing on both its for
 - **Customizable Manipulator Parameters:** Easily adjust link lengths, joint limits, and other parameters.
 - **Visualization:** 2D/3D plots to visualize manipulator movement and workspace.
 
+
+## Demo
+
+https://github.com/user-attachments/assets/326fd2b6-59ca-4b8c-81b8-44e966479eea
+
 ## Getting Started
 
 ### Prerequisites
@@ -65,9 +70,6 @@ Manipulator-Simulation/
 - `inverse_kinematics.m`: MATLAB script for inverse kinematics calculation.
 - `manipulator_model.slx`: Main Simulink model file.
 
-###DEMO
-
-https://github.com/user-attachments/assets/326fd2b6-59ca-4b8c-81b8-44e966479eea
 
 ## Customization
 
